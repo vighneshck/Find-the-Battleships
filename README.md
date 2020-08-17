@@ -1,4 +1,4 @@
-# Find the battleships
+# Find the Battleships
 
 To test-run the code, run ghci on the terminal:
 
