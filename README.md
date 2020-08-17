@@ -1,5 +1,4 @@
-# Guess the Ships
-A two-player logical guessing game similar to Battleship.
+# Find the battleships
 
 To test-run the code, run ghci on the terminal:
 
